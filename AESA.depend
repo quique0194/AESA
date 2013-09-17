@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1379424561 source:d:\documentos\workspace\cpp\aesa\main.cpp
+	<algorithm>
+	<fstream>
+	<string>
+	<iostream>
+	<vector>
+	<windows.h>
+	"l_distance.h"
+
+1379384015 d:\documentos\workspace\cpp\aesa\l_distance.h
+
